@@ -1,5 +1,4 @@
-Def > Display Board
-puts " A Tic Tac Toe Board "
+def display_board 
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
